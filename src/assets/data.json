@@ -1,0 +1,669 @@
+{
+  "href" : "https://api.spotify.com/v1/shows/2P2BVhs19aqHVg7jUPuTjL/episodes?offset=0&limit=20",
+  "items" : [ {
+    "audio_preview_url" : "https://p.scdn.co/mp3-preview/3fbc44ddb3cc71a9a1c15e6b1e61bc0679412190",
+    "description" : "On this episode of Ship It! We go further into the topic of CMS's, or Content Management Systems by talking about DEPT DASH, a new product from DEPT that helps you bootstrap applications that use headless CMS's like Strapi and Contentful.  Host Matt Merrill is joined by Allan Winterseick, Managing Partner, DEPT US and John Berger, Principal Engineer on DEPT DASH to talk about it as well as why you might use headless CMS's.   We also have a screencast of using DEPT DASH you can see here.   Links for our Picks: Matt - \"Breath\" by James Nestor  John - ADS-B Receivers on Raspberry PI  Allan - \"A Perfect Spy\" by John Le Carre ",
+    "duration_ms" : 1189851,
+    "explicit" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/episode/56WXJ8hCP5sEyvibNAlRSz"
+    },
+    "href" : "https://api.spotify.com/v1/episodes/56WXJ8hCP5sEyvibNAlRSz",
+    "html_description" : "<p>On this episode of Ship It! We go further into the topic of CMS&#39;s, or Content Management Systems by talking about DEPT DASH, a new product from DEPT that helps you bootstrap applications that use headless CMS&#39;s like Strapi and Contentful.  Host <a href=\"https://www.linkedin.com/in/theothermattm/\" rel=\"nofollow\">Matt Merrill</a> is joined by <a href=\"https://www.linkedin.com/in/awintersieck/\" rel=\"nofollow\">Allan Winterseick</a>, Managing Partner, DEPT US and <a href=\"https://www.linkedin.com/in/johnmberger/\" rel=\"nofollow\">John Berger</a>, Principal Engineer on DEPT DASH to talk about it as well as why you might use headless CMS&#39;s.</p><br/><p> </p><br/><p>We also have a screencast of using DEPT DASH you can see <a href=\"https://www.youtube.com/watch?v&#61;vxQ5sggxNHo\" rel=\"nofollow\">here</a>.</p><br/><p> </p><br/><p>Links for our Picks:</p><br/><p>Matt - <a href=\"https://www.amazon.com/Breath-New-Science-Lost-Art/dp/0735213615\" rel=\"nofollow\">&#34;Breath&#34; by James Nestor </a></p><br/><p>John - <a href=\"https://flightaware.com/adsb/piaware/build/\" rel=\"nofollow\">ADS-B Receivers on Raspberry PI</a> </p><br/><p>Allan - <a href=\"https://www.amazon.com/Perfect-Spy-Novel-John-Carr%C3%A9/dp/0143119761\" rel=\"nofollow\">&#34;A Perfect Spy&#34; by John Le Carre </a></p>",
+    "id" : "56WXJ8hCP5sEyvibNAlRSz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6765630000ba8af3575988ed0e0980b7b94592",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67656300005f1ff3575988ed0e0980b7b94592",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6765630000f68df3575988ed0e0980b7b94592",
+      "width" : 64
+    } ],
+    "is_externally_hosted" : false,
+    "is_playable" : true,
+    "language" : "en",
+    "languages" : [ "en" ],
+    "name" : "Episode 21: DEPT® Dash - A way to bootstrap headless CMS projects",
+    "release_date" : "2023-02-06",
+    "release_date_precision" : "day",
+    "type" : "episode",
+    "uri" : "spotify:episode:56WXJ8hCP5sEyvibNAlRSz"
+  }, {
+    "audio_preview_url" : "https://p.scdn.co/mp3-preview/1fe174aeb019e66f2dbb9d1004b9a26768263789",
+    "description" : "In this episode we dive into Content Management Systems or CMS's with two experts from DEPT®, Daniel Paterson and John Askew, both of whom have been working with large scale CMS's for over 10 years.  We answer the questions: Why do they exist?  What are their features? And why, as a developer, would I want to use once when I could make custom software that might do the job better?  We also dive into how to choose a CMS, headless CMS's as well as antipatterns for implementing CMS's. ",
+    "duration_ms" : 2314135,
+    "explicit" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/episode/4bRR8oIsJ4kgfJYWnLkw9x"
+    },
+    "href" : "https://api.spotify.com/v1/episodes/4bRR8oIsJ4kgfJYWnLkw9x",
+    "html_description" : "<p>In this episode we dive into Content Management Systems or CMS&#39;s with two experts from DEPT®, <a href=\"https://www.linkedin.com/in/daniel-paterson-5080ba5a/\" rel=\"nofollow\">Daniel Paterson</a> and <a href=\"https://www.linkedin.com/in/john-askew-22727246/\" rel=\"nofollow\">John Askew</a>, both of whom have been working with large scale CMS&#39;s for over 10 years.  We answer the questions: Why do they exist?  What are their features? And why, as a developer, would I want to use once when I could make custom software that might do the job better?  We also dive into how to choose a CMS, headless CMS&#39;s as well as antipatterns for implementing CMS&#39;s. </p>",
+    "id" : "4bRR8oIsJ4kgfJYWnLkw9x",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6765630000ba8af3575988ed0e0980b7b94592",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67656300005f1ff3575988ed0e0980b7b94592",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6765630000f68df3575988ed0e0980b7b94592",
+      "width" : 64
+    } ],
+    "is_externally_hosted" : false,
+    "is_playable" : true,
+    "language" : "en",
+    "languages" : [ "en" ],
+    "name" : "Episode 20: Why Use Content Management Systems (CMS’s)?",
+    "release_date" : "2022-11-14",
+    "release_date_precision" : "day",
+    "type" : "episode",
+    "uri" : "spotify:episode:4bRR8oIsJ4kgfJYWnLkw9x"
+  }, {
+    "audio_preview_url" : "https://p.scdn.co/mp3-preview/e534aeec67e4116e87473821a90814ace7bb74d5",
+    "description" : "In this episode, we're continuing our Origin Stories which dive into how talented people got their start in software.  Today, DEPT® director of engineering Matt Merrill talks with DEPT® Executive Sponsor and Sr Director of Innovation Carlos Dominguez about how his interest got sparked in computers and his fascinating journey from his grandmother telling him that computers were the future, learning to program, and then finally how Jackie Chan and Jet Li got him into the video game industry.",
+    "duration_ms" : 2350733,
+    "explicit" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/episode/3VbLrighekQZOAB98aKGeR"
+    },
+    "href" : "https://api.spotify.com/v1/episodes/3VbLrighekQZOAB98aKGeR",
+    "html_description" : "<p>In this episode, we&#39;re continuing our Origin Stories which dive into how talented people got their start in software.  Today, DEPT® director of engineering <a href=\"https://www.linkedin.com/in/theothermattm/\" rel=\"nofollow\">Matt Merrill</a> talks with DEPT® Executive Sponsor and Sr Director of Innovation <a href=\"https://www.linkedin.com/in/carlos-dominguez13/\" rel=\"nofollow\">Carlos Dominguez </a>about how his interest got sparked in computers and his fascinating journey from his grandmother telling him that computers were the future, learning to program, and then finally how Jackie Chan and Jet Li got him into the video game industry.</p>",
+    "id" : "3VbLrighekQZOAB98aKGeR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6765630000ba8af3575988ed0e0980b7b94592",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67656300005f1ff3575988ed0e0980b7b94592",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6765630000f68df3575988ed0e0980b7b94592",
+      "width" : 64
+    } ],
+    "is_externally_hosted" : false,
+    "is_playable" : true,
+    "language" : "en",
+    "languages" : [ "en" ],
+    "name" : "Episode 19:  Origin Stories - Carlos Dominguez",
+    "release_date" : "2022-08-22",
+    "release_date_precision" : "day",
+    "type" : "episode",
+    "uri" : "spotify:episode:3VbLrighekQZOAB98aKGeR"
+  }, {
+    "audio_preview_url" : "https://p.scdn.co/mp3-preview/60d69fb4b68512bb39ca037853f3f5f1f02c7bac",
+    "description" : "At DEPT® we’re all builders, tackling projects from the interconnected realms of engineering and design. So much of what we build as engineers is often informed by the work of designers.  On Ship It! we often focus on engineering, but we haven't yet dove into the design side of the coin. In this episode of our Origin Stories series, Matt Merrill talks to DEPT® Senior Product Designer Breon Waters II about how he got started and the various types of projects he has worked on.",
+    "duration_ms" : 1690435,
+    "explicit" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/episode/3W70ceDq3xcGx0cwfRlmHr"
+    },
+    "href" : "https://api.spotify.com/v1/episodes/3W70ceDq3xcGx0cwfRlmHr",
+    "html_description" : "<p>At DEPT® we’re all builders, tackling projects from the interconnected realms of engineering and design. So much of what we build as engineers is often informed by the work of designers.  On Ship It! we often focus on engineering, but we haven&#39;t yet dove into the design side of the coin.</p><br/><p>In this episode of our Origin Stories series, Matt Merrill talks to DEPT® Senior Product Designer <a href=\"https://www.linkedin.com/in/breon-waters-ii-25b40442/\" rel=\"nofollow\">Breon Waters II</a> about how he got started and the various types of projects he has worked on.</p>",
+    "id" : "3W70ceDq3xcGx0cwfRlmHr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6765630000ba8af3575988ed0e0980b7b94592",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67656300005f1ff3575988ed0e0980b7b94592",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6765630000f68df3575988ed0e0980b7b94592",
+      "width" : 64
+    } ],
+    "is_externally_hosted" : false,
+    "is_playable" : true,
+    "language" : "en",
+    "languages" : [ "en" ],
+    "name" : "Episode 18: Origin Stories - Breon Waters II",
+    "release_date" : "2022-07-25",
+    "release_date_precision" : "day",
+    "type" : "episode",
+    "uri" : "spotify:episode:3W70ceDq3xcGx0cwfRlmHr"
+  }, {
+    "audio_preview_url" : "https://p.scdn.co/mp3-preview/884c9ec834b8422d26d62072a8dd6dd92ae95ef7",
+    "description" : "Come with us as we explore the Digital Nomad lifestyle at DEPT®! In this episode we cover some key considerations to take into account if you’re thinking about pursuing this lifestyle: how to set the right expectations with clients, your friends, and (most importantly) yourself.",
+    "duration_ms" : 2054242,
+    "explicit" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/episode/37PIdf7Tmvg9fkDNcdjJLW"
+    },
+    "href" : "https://api.spotify.com/v1/episodes/37PIdf7Tmvg9fkDNcdjJLW",
+    "html_description" : "<p>Come with us as we explore the Digital Nomad lifestyle at DEPT®! In this episode we cover some key considerations to take into account if you’re thinking about pursuing this lifestyle: how to set the right expectations with clients, your friends, and (most importantly) yourself.</p>",
+    "id" : "37PIdf7Tmvg9fkDNcdjJLW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6765630000ba8af3575988ed0e0980b7b94592",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67656300005f1ff3575988ed0e0980b7b94592",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6765630000f68df3575988ed0e0980b7b94592",
+      "width" : 64
+    } ],
+    "is_externally_hosted" : false,
+    "is_playable" : true,
+    "language" : "en",
+    "languages" : [ "en" ],
+    "name" : "Episode 17: Digital Nomads",
+    "release_date" : "2022-06-27",
+    "release_date_precision" : "day",
+    "type" : "episode",
+    "uri" : "spotify:episode:37PIdf7Tmvg9fkDNcdjJLW"
+  }, {
+    "audio_preview_url" : "https://p.scdn.co/mp3-preview/e1182516eb8fdf1dc2b56a35aafad513f4b6b19f",
+    "description" : "In this follow-up episode to our Crypto Through Immersion: Part 1, Dave Merwin and Brandon Aaskov from DEPT®’s crypto practice go into detail about how to get crypto safely. This episode covers centralized exchanges, decentralized exchanges (DEXes) and what “staking” is all about.",
+    "duration_ms" : 2349191,
+    "explicit" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/episode/1PSTHPCdpWYV6EQdtyIGy6"
+    },
+    "href" : "https://api.spotify.com/v1/episodes/1PSTHPCdpWYV6EQdtyIGy6",
+    "html_description" : "<p>In this follow-up episode to our <a href=\"https://shipit.io/e/episode-15-crypto-through-immersion-part-1/\" rel=\"nofollow\">Crypto Through Immersion: Part 1</a>, <a href=\"https://www.linkedin.com/in/merwin/\" rel=\"nofollow\">Dave Merwin</a> and <a href=\"https://www.linkedin.com/in/brandonaaskov/\" rel=\"nofollow\">Brandon Aaskov</a> from DEPT®’s crypto practice go into detail about how to get crypto safely. This episode covers centralized exchanges, decentralized exchanges (DEXes) and what “staking” is all about.</p>",
+    "id" : "1PSTHPCdpWYV6EQdtyIGy6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6765630000ba8af3575988ed0e0980b7b94592",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67656300005f1ff3575988ed0e0980b7b94592",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6765630000f68df3575988ed0e0980b7b94592",
+      "width" : 64
+    } ],
+    "is_externally_hosted" : false,
+    "is_playable" : true,
+    "language" : "en",
+    "languages" : [ "en" ],
+    "name" : "Episode 16: Crypto Through Immersion - Part 2",
+    "release_date" : "2022-05-26",
+    "release_date_precision" : "day",
+    "type" : "episode",
+    "uri" : "spotify:episode:1PSTHPCdpWYV6EQdtyIGy6"
+  }, {
+    "audio_preview_url" : "https://p.scdn.co/mp3-preview/a0d4e63a752aea87c0978403bd9ee6edaf1de243",
+    "description" : "Does crypto seem cryptic, and you don’t know where to start?  Sometimes the best way to learn is to dive in and immerse yourself.  In the first episode of this two part series, Brandon Aaskov and Dave Merwin from Dept’s Crypto collective will shed some light and share some resources to get you well on your way to understanding this exciting new frontier.",
+    "duration_ms" : 2078379,
+    "explicit" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/episode/6NebmphwA283UIrGKQQEwx"
+    },
+    "href" : "https://api.spotify.com/v1/episodes/6NebmphwA283UIrGKQQEwx",
+    "html_description" : "<p>Does crypto seem cryptic, and you don’t know where to start?  Sometimes the best way to learn is to dive in and immerse yourself.  In the first episode of this two part series, <a href=\"https://www.linkedin.com/in/brandonaaskov/\" rel=\"nofollow\">Brandon Aaskov</a> and <a href=\"https://www.linkedin.com/in/merwin/\" rel=\"nofollow\">Dave Merwin</a> from Dept’s Crypto collective will shed some light and share some resources to get you well on your way to understanding this exciting new frontier.</p>",
+    "id" : "6NebmphwA283UIrGKQQEwx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6765630000ba8af3575988ed0e0980b7b94592",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67656300005f1ff3575988ed0e0980b7b94592",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6765630000f68df3575988ed0e0980b7b94592",
+      "width" : 64
+    } ],
+    "is_externally_hosted" : false,
+    "is_playable" : true,
+    "language" : "en",
+    "languages" : [ "en" ],
+    "name" : "Episode 15: Crypto Through Immersion - Part 1",
+    "release_date" : "2022-04-05",
+    "release_date_precision" : "day",
+    "type" : "episode",
+    "uri" : "spotify:episode:6NebmphwA283UIrGKQQEwx"
+  }, {
+    "audio_preview_url" : "https://p.scdn.co/mp3-preview/b5bc514af08768ace4287a519452d618340e3c05",
+    "description" : "Heard a lot about AI and Machine Learning but don’t understand it?  This month’s episode is for you: we’re introducing machine learning in the simplest way possible, as if we were chatting with a five-year-old!   Special guest Tyler Renelle, host of Dept's Machine Learning Guide podcast, sits down with with Dept Engineer and Resident Five Year Old, Matt Merrill to teach him about the history, background and technical landscape of machine learning. Just enough to get anyone, even an actual five-year-old, started!",
+    "duration_ms" : 2595422,
+    "explicit" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/episode/2URwJtTWynBkLVvhQnsGvZ"
+    },
+    "href" : "https://api.spotify.com/v1/episodes/2URwJtTWynBkLVvhQnsGvZ",
+    "html_description" : "<p>Heard a lot about AI and Machine Learning but don’t understand it?  This month’s episode is for you: we’re introducing machine learning in the simplest way possible, as if we were chatting with a five-year-old!  </p><br/><p>Special guest <a href=\"https://www.linkedin.com/in/lefnire\" rel=\"nofollow\">Tyler Renelle</a>, host of <a href=\"https://open.spotify.com/show/5M9yZpSyF1jc7uFp2MlhP9\" rel=\"nofollow\">Dept&#39;s Machine Learning Guide</a> podcast, sits down with with Dept Engineer and Resident Five Year Old, <a href=\"https://www.linkedin.com/in/theothermattm/\" rel=\"nofollow\">Matt Merrill</a> to teach him about the history, background and technical landscape of machine learning. Just enough to get anyone, even an actual five-year-old, started!</p>",
+    "id" : "2URwJtTWynBkLVvhQnsGvZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6765630000ba8af3575988ed0e0980b7b94592",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67656300005f1ff3575988ed0e0980b7b94592",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6765630000f68df3575988ed0e0980b7b94592",
+      "width" : 64
+    } ],
+    "is_externally_hosted" : false,
+    "is_playable" : true,
+    "language" : "en",
+    "languages" : [ "en" ],
+    "name" : "Episode 14: Machine Learning - Explain it Like I’m Five",
+    "release_date" : "2022-02-23",
+    "release_date_precision" : "day",
+    "type" : "episode",
+    "uri" : "spotify:episode:2URwJtTWynBkLVvhQnsGvZ"
+  }, {
+    "audio_preview_url" : "https://p.scdn.co/mp3-preview/376980773d469424e0a960a79f0f4f337e7a90d6",
+    "description" : "Happy new year! We’re kicking off 2022 with one of the strongest themes of 2021: NFTs and cryptocurrency. Last year these took the world by storm, with “NFT” even being named the Word of the Year!  In this episode of Ship It, host Keegan Sands revisits a Dept Talk in which we explore this breakthrough year and ask ourselves, what’s next for crypto? Some of the highlights of this conversation include the different use cases of NFTs for brands, the value of one blockchain platform over another, compliancy conundrums, and expert predictions of what the near-ish future will look like.    Featured on this episode we have some exciting blockchain-savvy folks: David Markley of Algorand, Joao Reginatto of Circle, Anne Marie Gianutsos of The Drone Racing League, Abdel Boazzati of Coca Cola, and Jesse Streb & Brandon Aaskov of Dept.",
+    "duration_ms" : 3272306,
+    "explicit" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/episode/5Y7r0WflctHiiwYPnyYKIr"
+    },
+    "href" : "https://api.spotify.com/v1/episodes/5Y7r0WflctHiiwYPnyYKIr",
+    "html_description" : "<p>Happy new year! We’re kicking off 2022 with one of the strongest themes of 2021: NFTs and cryptocurrency. Last year these took the world by storm, with “NFT” even being named the Word of the Year! </p><br/><p>In this episode of Ship It, host <a href=\"https://www.linkedin.com/in/keegan-sands/\" rel=\"nofollow\">Keegan Sands</a> revisits a Dept Talk in which we explore this breakthrough year and ask ourselves, what’s next for crypto? Some of the highlights of this conversation include the different use cases of NFTs for brands, the value of one blockchain platform over another, compliancy conundrums, and expert predictions of what the near-ish future will look like. </p><br/><p> </p><br/><p>Featured on this episode we have some exciting blockchain-savvy folks: <a href=\"https://www.linkedin.com/in/david-b-markley-a99a9525/\" rel=\"nofollow\">David Markley</a> of <a href=\"https://www.algorand.com/\" rel=\"nofollow\">Algorand</a>, <a href=\"https://www.linkedin.com/in/joaoreginatto/\" rel=\"nofollow\">Joao Reginatto</a> of <a href=\"https://www.circle.com/\" rel=\"nofollow\">Circle</a>, <a href=\"https://www.linkedin.com/in/amgianutsos/\" rel=\"nofollow\">Anne Marie Gianutsos</a> of <a href=\"https://thedroneracingleague.com/\" rel=\"nofollow\">The Drone Racing League</a>, <a href=\"https://www.linkedin.com/in/abdel-boazzati-5313841/\" rel=\"nofollow\">Abdel Boazzati</a> of Coca Cola, and <a href=\"https://www.linkedin.com/in/jessestreb/\" rel=\"nofollow\">Jesse Streb</a> &amp; <a href=\"https://www.linkedin.com/in/brandonaaskov/\" rel=\"nofollow\">Brandon Aaskov</a> of Dept.</p>",
+    "id" : "5Y7r0WflctHiiwYPnyYKIr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6765630000ba8af3575988ed0e0980b7b94592",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67656300005f1ff3575988ed0e0980b7b94592",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6765630000f68df3575988ed0e0980b7b94592",
+      "width" : 64
+    } ],
+    "is_externally_hosted" : false,
+    "is_playable" : true,
+    "language" : "en",
+    "languages" : [ "en" ],
+    "name" : "Episode 13: The Year in Crypto",
+    "release_date" : "2022-01-13",
+    "release_date_precision" : "day",
+    "type" : "episode",
+    "uri" : "spotify:episode:5Y7r0WflctHiiwYPnyYKIr"
+  }, {
+    "audio_preview_url" : "https://p.scdn.co/mp3-preview/d36eb2693ea226b8cfc6b3529ffe982a54027392",
+    "description" : "Shipitio is entering a new dimension with an episode all about 3D! And here to talk about their 3D experiences are a few folks from Dept, Rocket’s parent agency: Jake Rainis, Matt van Voorst, Rachel Caires and Richard Thompson. Together with host Keegan Sands, they’re sharing their expert opinions on how 3D Experiences can enhance products as well as the technical challenges of implementing 3D in the browser.  As usual we end with our picks: Keegan - Marcus Eder's Ultimate Ski Run  Matt - Bruno Simon his twitch: https://www.twitch.tv/bruno_simon_dev Rachel - Luna Display device Rick - Dog Studio and Lusion   Jake - RealLifeLore Enjoy!",
+    "duration_ms" : 3086262,
+    "explicit" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/episode/2t5Mvh1IT0byDDsD5uqruI"
+    },
+    "href" : "https://api.spotify.com/v1/episodes/2t5Mvh1IT0byDDsD5uqruI",
+    "html_description" : "<p>Shipitio is entering a new dimension with an episode all about 3D! And here to talk about their 3D experiences are a few folks from <a href=\"https://www.deptagency.com/\" rel=\"nofollow\">Dept</a>, Rocket’s parent agency: <a href=\"https://www.linkedin.com/in/jakerainis/\" rel=\"nofollow\">Jake Rainis</a>, <a href=\"https://www.linkedin.com/in/matt-van-voorst-b73b542b/\" rel=\"nofollow\">Matt van Voorst,</a> <a href=\"https://www.linkedin.com/in/rachelcaires/\" rel=\"nofollow\">Rachel Caires</a> and <a href=\"https://www.linkedin.com/in/richard-thompson-248ba3111/\" rel=\"nofollow\">Richard Thompson</a>.</p><br/><p>Together with host <a href=\"https://www.linkedin.com/in/keegan-sands/\" rel=\"nofollow\">Keegan Sands</a>, they’re sharing their expert opinions on how 3D Experiences can enhance products as well as the technical challenges of implementing 3D in the browser. </p><br/><p>As usual we end with our picks:</p><br/><p>Keegan - <a href=\"https://www.youtube.com/watch?v&#61;fbqHK8i-HdA\" rel=\"nofollow\">Marcus Eder&#39;s Ultimate Ski Run</a> <br/>Matt - Bruno Simon his twitch: <a href=\"https://www.twitch.tv/bruno_simon_dev\" rel=\"nofollow\">https://www.twitch.tv/bruno_simon_dev</a><br/>Rachel - <a href=\"https://astropad.com/product/lunadisplay/\" rel=\"nofollow\">Luna Display</a> device<br/>Rick - <a href=\"https://dogstudio.co/\" rel=\"nofollow\">Dog Studio</a> and <a href=\"https://lusion.co/\" rel=\"nofollow\">Lusion</a>  <br/>Jake - <a href=\"https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww\" rel=\"nofollow\">RealLifeLore</a></p><br/><p>Enjoy!</p>",
+    "id" : "2t5Mvh1IT0byDDsD5uqruI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6765630000ba8af3575988ed0e0980b7b94592",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67656300005f1ff3575988ed0e0980b7b94592",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6765630000f68df3575988ed0e0980b7b94592",
+      "width" : 64
+    } ],
+    "is_externally_hosted" : false,
+    "is_playable" : true,
+    "language" : "en",
+    "languages" : [ "en" ],
+    "name" : "Episode 12: In 3D!",
+    "release_date" : "2021-12-08",
+    "release_date_precision" : "day",
+    "type" : "episode",
+    "uri" : "spotify:episode:2t5Mvh1IT0byDDsD5uqruI"
+  }, {
+    "audio_preview_url" : "https://p.scdn.co/mp3-preview/8824e31e2c61244219e24faab685a1341abbbe7a",
+    "description" : "Shipit.io is back! In this episode Rocket founder Jesse Streb and Rocket Director of Engineering Matt Merrill dive deep into scaling teams.  We cover \"team smells\", how DevOps is key to scaling teams and other topics related to making sure your software team grows healthily. Enjoy our round-up of picks at the end and don't forget to round off this episode with our recently published scaling teams blog post and eBook!",
+    "duration_ms" : 2149067,
+    "explicit" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/episode/7DioAexPlBww9oQJIvyQpU"
+    },
+    "href" : "https://api.spotify.com/v1/episodes/7DioAexPlBww9oQJIvyQpU",
+    "html_description" : "<p>Shipit.io is back! In this episode Rocket founder <a href=\"https://www.linkedin.com/in/jessestreb/\" rel=\"nofollow\">Jesse Streb</a> and Rocket Director of Engineering <a href=\"https://www.linkedin.com/in/theothermattm/\" rel=\"nofollow\">Matt Merrill</a> dive deep into scaling teams.  We cover &#34;team smells&#34;, how DevOps is key to scaling teams and other topics related to making sure your software team grows healthily. Enjoy our round-up of picks at the end and don&#39;t forget to round off this episode <a href=\"https://blog.rocketinsights.com/how-to-effectively-scale-teams/\" rel=\"nofollow\">with our recently published scaling teams blog post and eBook</a>!</p>",
+    "id" : "7DioAexPlBww9oQJIvyQpU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6765630000ba8af3575988ed0e0980b7b94592",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67656300005f1ff3575988ed0e0980b7b94592",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6765630000f68df3575988ed0e0980b7b94592",
+      "width" : 64
+    } ],
+    "is_externally_hosted" : false,
+    "is_playable" : true,
+    "language" : "en",
+    "languages" : [ "en" ],
+    "name" : "Episode 11: Scaling Teams",
+    "release_date" : "2021-10-07",
+    "release_date_precision" : "day",
+    "type" : "episode",
+    "uri" : "spotify:episode:7DioAexPlBww9oQJIvyQpU"
+  }, {
+    "audio_preview_url" : "https://p.scdn.co/mp3-preview/22dffbc6a19c898c5bee02103c39204a1c996f21",
+    "description" : "Episode 10 continues our \"Origin Stories\" series where we interview senior engineers about their careers in software. This time around, host Keegan Sands (Full Stack Developer, Rocket Insights) interviews Tiffany Pereira, Rocket Insights' QA Practice Lead.  Tiffany studied Computer Science to be a software developer, then did a QA internship and really loved it. Even after that internship, she viewed QA as a steppingstone to be a developer, but over time she found that by embracing the parts of QA that many people overlook, that she could develop her talents into a career path that she loved. Tiffany and Keegan touch on the \"dream\" of automation testing, the investment necessary to get there and why automation might not be a panacea.  They also dive deep into the importance of why QA can be so much more than just writing test cases and why it's so important to have an open dialogue between QA and Developers. Picks: Tiffany - Diagnosis on Netflix Keegan - For All Mankind on Apple TV+  ",
+    "duration_ms" : 1668206,
+    "explicit" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/episode/7LOnwRkCfqWLc5eyLR9RMt"
+    },
+    "href" : "https://api.spotify.com/v1/episodes/7LOnwRkCfqWLc5eyLR9RMt",
+    "html_description" : "<p>Episode 10 continues our &#34;Origin Stories&#34; series where we interview senior engineers about their careers in software. This time around, host <a href=\"https://www.linkedin.com/in/keegan-sands/\" rel=\"nofollow\">Keegan Sands</a> (Full Stack Developer, Rocket Insights) interviews <a href=\"https://www.linkedin.com/in/tiffany-pereira-35843311/\" rel=\"nofollow\">Tiffany Pereira</a>, Rocket Insights&#39; QA Practice Lead.  Tiffany studied Computer Science to be a software developer, then did a QA internship and really loved it. Even after that internship, she viewed QA as a steppingstone to be a developer, but over time she found that by embracing the parts of QA that many people overlook, that she could develop her talents into a career path that she loved.<br/>Tiffany and Keegan touch on the &#34;dream&#34; of automation testing, the investment necessary to get there and why automation might not be a panacea.  They also dive deep into the importance of why QA can be so much more than just writing test cases and why it&#39;s so important to have an open dialogue between QA and Developers.</p><br/><p>Picks:</p><br/><p>Tiffany - <a href=\"https://www.netflix.com/title/80201543\" rel=\"nofollow\">Diagnosis on Netflix</a></p><br/><p>Keegan - <a href=\"https://tv.apple.com/us/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7\" rel=\"nofollow\">For All Mankind on Apple TV&#43;</a></p><br/><p> </p>",
+    "id" : "7LOnwRkCfqWLc5eyLR9RMt",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6765630000ba8af3575988ed0e0980b7b94592",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67656300005f1ff3575988ed0e0980b7b94592",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6765630000f68df3575988ed0e0980b7b94592",
+      "width" : 64
+    } ],
+    "is_externally_hosted" : false,
+    "is_playable" : true,
+    "language" : "en",
+    "languages" : [ "en" ],
+    "name" : "Episode 10: Origin Stories - Tiffany Pereira",
+    "release_date" : "2020-09-16",
+    "release_date_precision" : "day",
+    "type" : "episode",
+    "uri" : "spotify:episode:7LOnwRkCfqWLc5eyLR9RMt"
+  }, {
+    "audio_preview_url" : "https://p.scdn.co/mp3-preview/2f796d7922b909565d379eaaf1ca31130dc2d083",
+    "description" : "Episode 9 continues our \"Origin Stories\" series where we interview senior engineers about their careers in software. This time around, we're interviewing Brian Manning, Principal Software Engineer at Rocket Insights. Brian started out digitizing football playbooks and wound up getting hooked on coding, becoming an Android developer in a series of startups and even starting his own company. He talks about the importance of knowing what you don't know and how, with enough work and persistence, anyone can be a developer. Picks:  Brian - \"Die\" by Kieron Gillen (Graphic Novel)  Brandon - Fortune Feimster: Sweet & Salty Netflix Special ",
+    "duration_ms" : 1497313,
+    "explicit" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/episode/5gZ0LLK0wwDVg6Dxrg19Hg"
+    },
+    "href" : "https://api.spotify.com/v1/episodes/5gZ0LLK0wwDVg6Dxrg19Hg",
+    "html_description" : "<p>Episode 9 continues our &#34;Origin Stories&#34; series where we interview senior engineers about their careers in software. This time around, we&#39;re interviewing <a href=\"https://www.linkedin.com/in/brimanning/\" rel=\"nofollow\">Brian Manning</a>, Principal Software Engineer at Rocket Insights. Brian started out digitizing football playbooks and wound up getting hooked on coding, becoming an Android developer in a series of startups and even starting his own company. He talks about the importance of knowing what you don&#39;t know and how, with enough work and persistence, anyone can be a developer.</p><br/><p>Picks:</p><br/><ul><li><br/><p>Brian - <a href=\"https://www.amazon.com/Die-Fantasy-Heartbreaker-Kieron-Gillen/dp/1534312706\" rel=\"nofollow\">&#34;Die&#34; by Kieron Gillen</a> (Graphic Novel)</p><br/></li><li>Brandon - <a href=\"https://www.netflix.com/title/81146199\" rel=\"nofollow\">Fortune Feimster: Sweet &amp; Salty Netflix Special</a></li></ul>",
+    "id" : "5gZ0LLK0wwDVg6Dxrg19Hg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6765630000ba8af3575988ed0e0980b7b94592",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67656300005f1ff3575988ed0e0980b7b94592",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6765630000f68df3575988ed0e0980b7b94592",
+      "width" : 64
+    } ],
+    "is_externally_hosted" : false,
+    "is_playable" : true,
+    "language" : "en",
+    "languages" : [ "en" ],
+    "name" : "Episode 9: Origin Stories - Brian Manning",
+    "release_date" : "2020-06-02",
+    "release_date_precision" : "day",
+    "type" : "episode",
+    "uri" : "spotify:episode:5gZ0LLK0wwDVg6Dxrg19Hg"
+  }, {
+    "audio_preview_url" : "https://p.scdn.co/mp3-preview/b07bfdaf0bbb7b5ef0bcb0a04fc1d251617f2b9f",
+    "description" : "Episode 8 is the first in a series we're calling \"Origin Stories.\"  We'll interview a senior developer about how they got into the field of Software Development and the lessons they learned along the way.  We hope you find these stories interesting and that they might offer you guidance if you're figuring out your own place in the world of software development! Our first Origin Story is with Matt Merrill, Principal Software Engineer at Rocket Insights.  Matt started as a Computer Science major in college but ended up switching to a different major. Theoretical programming just wasn't interesting to him.  But, in his second year out working in the real world, found himself doing some stuff that made him realize that programming business applications was a lot different than the theoretical stuff he knew from school. It  didn't take long for Matt to fall back in love with programming and make it a career. Over the course of his roundabout journey, Matt learned a couple important lessons. Don't let yourself get too comfortable in what you do and, above all, always ask yourself why you're building what you're building. This is our first quarantine episode recorded remotely at home.  Enjoy and stay healthy out there! Picks from the End of the Episode:  Matt - Uncanny Valley by Anna Wiener  Brandon - Darknet Diaries Podcast - XBox Underground Part 1 & Part 2    ",
+    "duration_ms" : 1444963,
+    "explicit" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/episode/1eIpUbTOeBR7XSixh5Suwm"
+    },
+    "href" : "https://api.spotify.com/v1/episodes/1eIpUbTOeBR7XSixh5Suwm",
+    "html_description" : "<p>Episode 8 is the first in a series we&#39;re calling &#34;Origin Stories.&#34;  We&#39;ll interview a senior developer about how they got into the field of Software Development and the lessons they learned along the way.  We hope you find these stories interesting and that they might offer you guidance if you&#39;re figuring out your own place in the world of software development!</p><br/><p>Our first Origin Story is with <a href=\"https://www.linkedin.com/in/theothermattm/\" rel=\"nofollow\">Matt Merrill</a>, Principal Software Engineer at Rocket Insights.  Matt started as a Computer Science major in college but ended up switching to a different major. Theoretical programming just wasn&#39;t interesting to him.  But, in his second year out working in the real world, found himself doing some stuff that made him realize that programming business applications was a lot different than the theoretical stuff he knew from school. It  didn&#39;t take long for Matt to fall back in love with programming and make it a career. Over the course of his roundabout journey, Matt learned a couple important lessons. Don&#39;t let yourself get too comfortable in what you do and, above all, always ask yourself why you&#39;re building what you&#39;re building.</p><br/><p>This is our first quarantine episode recorded remotely at home.  Enjoy and stay healthy out there!</p><br/><p>Picks from the End of the Episode:</p><br/><ul><li><br/><p>Matt - <a href=\"https://www.amazon.com/Uncanny-Valley-Memoir-Anna-Wiener/dp/125076968X\" rel=\"nofollow\">Uncanny Valley by Anna Wiener</a></p><br/></li><li>Brandon - Darknet Diaries Podcast - XBox Underground <a href=\"https://darknetdiaries.com/episode/45/\" rel=\"nofollow\">Part 1</a> &amp; <a href=\"https://darknetdiaries.com/episode/46/\" rel=\"nofollow\">Part 2</a> </li></ul><br/><p> </p>",
+    "id" : "1eIpUbTOeBR7XSixh5Suwm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6765630000ba8af3575988ed0e0980b7b94592",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67656300005f1ff3575988ed0e0980b7b94592",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6765630000f68df3575988ed0e0980b7b94592",
+      "width" : 64
+    } ],
+    "is_externally_hosted" : false,
+    "is_playable" : true,
+    "language" : "en",
+    "languages" : [ "en" ],
+    "name" : "Episode 8: Origin Stories - Matt Merrill",
+    "release_date" : "2020-04-27",
+    "release_date_precision" : "day",
+    "type" : "episode",
+    "uri" : "spotify:episode:1eIpUbTOeBR7XSixh5Suwm"
+  }, {
+    "audio_preview_url" : "https://p.scdn.co/mp3-preview/072c75529a106da82daf0d025a17ca71bd2230a7",
+    "description" : "Rocket developers Brandon Aaskov, Dave Oelfke, Simon Ingeson, and Matt Merrill dive into the topic of clean code. When is it worth it? When is it unnecessary? Will it get you in trouble with your teammates? We also share some practical tips for walking the line between \"You ain't gonna need it\" and when it's worth it to spend that extra 20 minutes cleaning up code.  This podcast was inspired by the article \"Goodbye Clean Code\" by Dan Abramov which ignited a lot of talk in the Rocket Insights engineering slack channels! Detailed Notes: 00:00 - Intros 03:20 - Human readability is the most important thing. Are there any hard and fast rules? Cyclomatic complexity is a fancy word that's discussed 06:00 - It's hard to break out of a bad abstraction. It's hard to predict the future 11:00 - There's nothing more permanent than temporary 12:15 - Spreading out your code over lots of folders is probably not a great idea 14:30 - Flexing your muscles... Unnecessarily? 15:26 - A word from our sponsor 16:30 - Wait for the pain 19:30 - Give yourself flexibility for the future, but don't implement it right away 20:40 - How did we get to this point? A little history. Memory management wasn't always done for us 27:00 - There are no hard and fast rules. Be an adult 29:45 - The golden hour rule. Readme's are important 37:45 - Back to what makes code readable 41:00 - Testability. Using tests to learn about existing codebases 45:00 - File driven development 46:30 - Why refactor? 51:15 - The good samaritan rule 51:50 - Picks: Matt - HBO Silicon Valley Season Six Simon - 1917 (the movie)  Dave - Nest.js Brandon - Master Class    ",
+    "duration_ms" : 3293022,
+    "explicit" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/episode/30dGYpMIwfXa77U08OEZCm"
+    },
+    "href" : "https://api.spotify.com/v1/episodes/30dGYpMIwfXa77U08OEZCm",
+    "html_description" : "<p>Rocket developers <a href=\"https://www.linkedin.com/in/brandonaaskov/\" rel=\"nofollow\">Brandon Aaskov</a>, <a href=\"https://www.linkedin.com/in/davidoelfke/\" rel=\"nofollow\">Dave Oelfke,</a> <a href=\"https://www.linkedin.com/in/simoningeson/\" rel=\"nofollow\">Simon Ingeson</a>, and <a href=\"https://www.linkedin.com/in/theothermattm/\" rel=\"nofollow\">Matt Merrill</a> dive into the topic of clean code. When is it worth it? When is it unnecessary? Will it get you in trouble with your teammates? We also share some practical tips for walking the line between &#34;You ain&#39;t gonna need it&#34; and when it&#39;s worth it to spend that extra 20 minutes cleaning up code.  This podcast was inspired by the article <a href=\"https://overreacted.io/goodbye-clean-code/\" rel=\"nofollow\">&#34;Goodbye Clean Code&#34; by Dan Abramov</a> which ignited a lot of talk in the Rocket Insights engineering slack channels!</p><br/><p>Detailed Notes:</p><br/><ul><li>00:00 - Intros</li><li>03:20 - Human readability is the most important thing. Are there any hard and fast rules? Cyclomatic complexity is a fancy word that&#39;s discussed</li><li>06:00 - It&#39;s hard to break out of a bad abstraction. It&#39;s hard to predict the future</li><li>11:00 - There&#39;s nothing more permanent than temporary</li><li>12:15 - Spreading out your code over lots of folders is probably not a great idea</li><li>14:30 - Flexing your muscles... Unnecessarily?</li><li>15:26 - A word from our sponsor</li><li>16:30 - Wait for the pain</li><li>19:30 - Give yourself flexibility for the future, but don&#39;t implement it right away</li><li>20:40 - How did we get to this point? A little history. Memory management wasn&#39;t always done for us</li><li>27:00 - There are no hard and fast rules. Be an adult</li><li>29:45 - The golden hour rule. Readme&#39;s are important</li><li>37:45 - Back to what makes code readable</li><li>41:00 - Testability. Using tests to learn about existing codebases</li><li>45:00 - File driven development</li><li>46:30 - Why refactor?</li><li>51:15 - The good samaritan rule</li><li>51:50 - Picks:<br/><ul><li>Matt - <a href=\"https://www.hbo.com/silicon-valley/season-6\" rel=\"nofollow\">HBO Silicon Valley Season Six</a></li><li>Simon - <a href=\"https://en.wikipedia.org/wiki/1917_%282019_film%29\" rel=\"nofollow\">1917 (the movie) </a></li><li>Dave - <a href=\"https://nestjs.com/\" rel=\"nofollow\">Nest.js</a></li><li>Brandon - <a href=\"https://www.masterclass.com/\" rel=\"nofollow\">Master Class </a></li></ul><br/></li></ul>",
+    "id" : "30dGYpMIwfXa77U08OEZCm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6765630000ba8af3575988ed0e0980b7b94592",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67656300005f1ff3575988ed0e0980b7b94592",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6765630000f68df3575988ed0e0980b7b94592",
+      "width" : 64
+    } ],
+    "is_externally_hosted" : false,
+    "is_playable" : true,
+    "language" : "en",
+    "languages" : [ "en" ],
+    "name" : "Episode 7: Is clean code worth it?",
+    "release_date" : "2020-03-16",
+    "release_date_precision" : "day",
+    "type" : "episode",
+    "uri" : "spotify:episode:30dGYpMIwfXa77U08OEZCm"
+  }, {
+    "audio_preview_url" : "https://p.scdn.co/mp3-preview/c495412980ae5cb221093de7c67308f0a95d0e4a",
+    "description" : "In episode 6, Rocket Insights developers Brandon Aaskov, Scott O'Brien, Adam Fraser and Matt Merrill take a deep dive into Single Page Applications (SPA's): How did we end up with SPA's over Server Side Rendered (SSR) apps?  What problems do SPA's solve?  When should and shouldn't SPA's be created? They explore the idea that perhaps developers create SPA's because it's fun, but we forget about user experience.  The phrase \"Postmodern Hellscape\" is uttered.  They also explore a solution that might provide the best of SPA's and Server Side Rendering (spoiler alert: it's next.js/nuxt.js)! Detailed Discussion Topics: 0:00:00 - Intros & Background of SPA's - From AJAX to Electron.  Some personal history. 0:05:40 - Flash and Flex were the original SPA's! How did we end up at SPA's from Server Side Rendering? 0:11:15 - What problems do SPA's solve?  UI's are hard to make user-friendly.  CSS and HTML limit us compared to Native apps. 0:20:15 - Are we prioritizing developer experience over user experience? 0:22:00 - When should you use a SPA? Feel is important. Consumer facing vs. non-consumer facing applications. 0:27:30 - When shouldn't you use a SPA? 0:32:00 - Developers are spoiled! Resume Driven Development/Hype Driven Development. 0:43:00 - Why are you building what you're building? 0:48:00 - Routing is important. Should you be doing routing in the client at all? 0:52:00 - Next.js / Nuxt.js - The best of both worlds? 0:58:50 - A lightweight server might be the best answer. 1:00:00 - The difference between replicating your database on the frontend and UI specific state on the client 1:03:00 - Wrappin' it up. 1:04:00 - Picks! Brandon - The Oculus Quest Matt - 20khz Podcast Adam - Vizhub Scott - Lighthouse    ",
+    "duration_ms" : 4308088,
+    "explicit" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/episode/3oyL8H4hEK04Xm0U2rf0NQ"
+    },
+    "href" : "https://api.spotify.com/v1/episodes/3oyL8H4hEK04Xm0U2rf0NQ",
+    "html_description" : "<p>In episode 6, Rocket Insights developers <a href=\"https://www.linkedin.com/in/brandonaaskov/\" rel=\"nofollow\">Brandon Aaskov</a>, <a href=\"https://www.linkedin.com/in/scottcahillobrien/\" rel=\"nofollow\">Scott O&#39;Brien</a>, <a href=\"https://www.linkedin.com/in/adamnfraser/\" rel=\"nofollow\">Adam Fraser</a> and <a href=\"https://www.linkedin.com/in/theothermattm/\" rel=\"nofollow\">Matt Merrill</a> take a deep dive into Single Page Applications (SPA&#39;s): How did we end up with SPA&#39;s over Server Side Rendered (SSR) apps?  What problems do SPA&#39;s solve?  When should and shouldn&#39;t SPA&#39;s be created? They explore the idea that perhaps developers create SPA&#39;s because it&#39;s fun, but we forget about user experience.  The phrase &#34;Postmodern Hellscape&#34; is uttered.  They also explore a solution that might provide the best of SPA&#39;s and Server Side Rendering (spoiler alert: it&#39;s <a href=\"https://nextjs.org/\" rel=\"nofollow\">next.js</a>/<a href=\"https://nuxtjs.org/\" rel=\"nofollow\">nuxt.js</a>)!</p><br/><p>Detailed Discussion Topics:</p><br/><ul><li>0:00:00 - Intros &amp; Background of SPA&#39;s - From AJAX to Electron.  Some personal history.</li><li>0:05:40 - Flash and Flex were the original SPA&#39;s! How did we end up at SPA&#39;s from Server Side Rendering?</li><li>0:11:15 - What problems do SPA&#39;s solve?  UI&#39;s are hard to make user-friendly.  CSS and HTML limit us compared to Native apps.</li><li>0:20:15 - Are we prioritizing developer experience over user experience?</li><li>0:22:00 - When should you use a SPA? Feel is important. Consumer facing vs. non-consumer facing applications.</li><li>0:27:30 - When shouldn&#39;t you use a SPA?</li><li>0:32:00 - Developers are spoiled! Resume Driven Development/Hype Driven Development.</li><li>0:43:00 - Why are you building what you&#39;re building?</li><li>0:48:00 - Routing is important. Should you be doing routing in the client at all?</li><li>0:52:00 - Next.js / Nuxt.js - The best of both worlds?</li><li>0:58:50 - A lightweight server might be the best answer.</li><li>1:00:00 - The difference between replicating your database on the frontend and UI specific state on the client</li><li>1:03:00 - Wrappin&#39; it up.</li><li>1:04:00 - Picks!<br/><ul><li>Brandon - <a href=\"https://www.oculus.com/quest/\" rel=\"nofollow\">The Oculus Quest</a></li><li>Matt - <a href=\"https://www.20k.org/\" rel=\"nofollow\">20khz Podcast</a></li><li>Adam - <a href=\"https://vizhub.com/\" rel=\"nofollow\">Vizhub</a></li><li>Scott - <a href=\"https://developers.google.com/web/tools/lighthouse/\" rel=\"nofollow\">Lighthouse</a> </li></ul><br/></li></ul>",
+    "id" : "3oyL8H4hEK04Xm0U2rf0NQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6765630000ba8af3575988ed0e0980b7b94592",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67656300005f1ff3575988ed0e0980b7b94592",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6765630000f68df3575988ed0e0980b7b94592",
+      "width" : 64
+    } ],
+    "is_externally_hosted" : false,
+    "is_playable" : true,
+    "language" : "en",
+    "languages" : [ "en" ],
+    "name" : "Episode 6: Should you build a Single Page Application?",
+    "release_date" : "2020-02-04",
+    "release_date_precision" : "day",
+    "type" : "episode",
+    "uri" : "spotify:episode:3oyL8H4hEK04Xm0U2rf0NQ"
+  }, {
+    "audio_preview_url" : "https://p.scdn.co/mp3-preview/b6f15e614ba5f984d3951ca721d99ce097d5ea5b",
+    "description" : "Happy new year! In Episode 5, host Brandon Aaskov, Rocket Insights founder Jesse Streb and Rocket software developers Dave Oelfke, Richard Pressler and Ryan Serewicz discuss how to help people who are interested in software development figure out if it might be a good fit for them. Along the way, they dive into the topic of coding bootcamps as well as discuss their own beginnings with software development. Detailed notes: 0:00 - Intros. How to explain software development to people who don't know it. 1:50 - Why does your friend want to code? Get on the emotional rollercoaster of coding. 2:45 - Bootcamps - Who do they work for, who don't they work for? 9:00 - Self paced course/book learning as an alternative to bootcamps. 11:40 - What sparked your interest in coding? 13:30 - The TI-83 calculator was an important milestone in programming. 14:34 - I want to build R2D2!   16:00 - Beginning with Devops and Amazon Web Services. Other tools that can help out beginners. 18:45 - The ups and downs of frontend development. 22:45 - What is the theme of success in people who do well in software development? 25:00 - What happened to books!? 26:15 - Middle out learning 27:00 - Pickle a friend.com! Creative use of the  tag. 28:00 - Picks! Brandon - America's Test Kitchen recipes. Jesse - Harvest time tracking software. Richard - The Syntax podcast. Ryan - The Orbitbrown youtube channel.   ",
+    "duration_ms" : 2046485,
+    "explicit" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/episode/7dv89Lftm52XzFX0UM6i5i"
+    },
+    "href" : "https://api.spotify.com/v1/episodes/7dv89Lftm52XzFX0UM6i5i",
+    "html_description" : "<p>Happy new year! In Episode 5, host <a href=\"https://www.linkedin.com/in/brandonaaskov/\" rel=\"nofollow\">Brandon Aaskov</a>, Rocket Insights founder <a href=\"https://www.linkedin.com/in/jessestreb/\" rel=\"nofollow\">Jesse Streb</a> and Rocket software developers <a href=\"https://www.linkedin.com/in/davidoelfke/\" rel=\"nofollow\">Dave Oelfke</a>, <a href=\"https://www.linkedin.com/in/richardpressler/\" rel=\"nofollow\">Richard Pressler</a> and <a href=\"https://www.linkedin.com/in/ryan-serewicz-059024158/\" rel=\"nofollow\">Ryan Serewicz</a> discuss how to help people who are interested in software development figure out if it might be a good fit for them. Along the way, they dive into the topic of coding bootcamps as well as discuss their own beginnings with software development.</p><br/><p>Detailed notes:</p><br/><ul><li>0:00 - Intros. How to explain software development to people who don&#39;t know it.</li><li>1:50 - Why does your friend want to code? Get on the emotional rollercoaster of coding.</li><li>2:45 - Bootcamps - Who do they work for, who don&#39;t they work for?</li><li>9:00 - Self paced course/book learning as an alternative to bootcamps.</li><li>11:40 - What sparked your interest in coding?<br/><ul><li>13:30 - The TI-83 calculator was an important milestone in programming.</li><li>14:34 - I want to build R2D2!</li></ul><br/></li><li>16:00 - Beginning with Devops and Amazon Web Services. Other tools that can help out beginners.</li><li>18:45 - The ups and downs of frontend development.</li><li>22:45 - What is the theme of success in people who do well in software development?</li><li>25:00 - What happened to books!?</li><li>26:15 - <a href=\"https://blog.rocketinsights.com/untitled-4/\" rel=\"nofollow\">Middle out learning</a></li><li>27:00 - Pickle a friend.com! Creative use of the  tag.</li><li>28:00 - Picks!<br/><ul><li>Brandon - <a href=\"https://www.americastestkitchen.com/\" rel=\"nofollow\">America&#39;s Test Kitchen</a> recipes.</li><li>Jesse - <a href=\"https://www.getharvest.com/\" rel=\"nofollow\">Harvest</a> time tracking software.</li><li>Richard - The <a href=\"https://syntax.fm/\" rel=\"nofollow\">Syntax podcast</a>.</li><li>Ryan - The <a href=\"https://www.youtube.com/channel/UCV4hcFY9H8QJKbl59QHCuIA\" rel=\"nofollow\">Orbitbrown</a> youtube channel.</li></ul><br/></li></ul>",
+    "id" : "7dv89Lftm52XzFX0UM6i5i",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6765630000ba8af3575988ed0e0980b7b94592",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67656300005f1ff3575988ed0e0980b7b94592",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6765630000f68df3575988ed0e0980b7b94592",
+      "width" : 64
+    } ],
+    "is_externally_hosted" : false,
+    "is_playable" : true,
+    "language" : "en",
+    "languages" : [ "en" ],
+    "name" : "Episode 5: Your friend wants to code.",
+    "release_date" : "2020-01-06",
+    "release_date_precision" : "day",
+    "type" : "episode",
+    "uri" : "spotify:episode:7dv89Lftm52XzFX0UM6i5i"
+  }, {
+    "audio_preview_url" : "https://p.scdn.co/mp3-preview/a8bf8dcd3ae8ac06b64d321c4b069dfcd25deca3",
+    "description" : "In episode 4, host Brandon Aaskov (Principal Software Developer, Rocket Insights) talks with Rocket Insights developers Matt DiDomenico, Matt Merrill, Dave Oelfke and Ian Pirro about over engineering systems.  We dive into anticipating problems that might not exist, the temptation to impress other engineers and missing the mark with end users. As always, we end with picks for you to follow up on! Topics:   0:00 - Intros and YAGNI. 2:00 - Don't optimize ... yet. 3:00 - Being afraid of code judgement. 4:10 - Thoughts on Heroku. 5:20 - Think about the end user instead of impressing other developers. 8:50 - When should you start thinking about scale as a developer?  What's the line between Dev and DevOps in scaling? 11:00 - The trough of disillusionment with new apps and component libraries. 13:00 - Know your customer. If you don't, ask questions. 15:20 - Perfect is the enemy of done. 17:45 - On premature code reuse... 21:10 - Be Lazy! / Number of git repos as a proxy for complexity. 23:15 - Timelines are good and force you to ship and get feedback. 25:00 - Silly things engineers do in the name of good code. 26:50 - Picks:  Dave - Goole Chrome plugin proposal and a huge digression into privacy and ads Brandon - Bad Blood: Secrets and Lies in a Silicon Valley Startup Matt M. - The Idea Factory: Bell Labs and the Great Age of American Innovation Matt D. - Zeit Now Ian - Tab Soda   ",
+    "duration_ms" : 2032509,
+    "explicit" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/episode/13cYxIBkONnC3RJbMtLzWn"
+    },
+    "href" : "https://api.spotify.com/v1/episodes/13cYxIBkONnC3RJbMtLzWn",
+    "html_description" : "<p>In episode 4, host <a href=\"https://www.linkedin.com/in/brandonaaskov/\" rel=\"nofollow\">Brandon Aaskov</a> (Principal Software Developer, Rocket Insights) talks with Rocket Insights developers <a href=\"https://www.linkedin.com/in/mdidomenico/\" rel=\"nofollow\">Matt DiDomenico</a>, <a href=\"https://www.linkedin.com/in/theothermattm/\" rel=\"nofollow\">Matt Merrill</a>, <a href=\"https://www.linkedin.com/in/davidoelfke/\" rel=\"nofollow\">Dave Oelfke</a> and <a href=\"https://www.linkedin.com/in/ian-pirro-4140a751/\" rel=\"nofollow\">Ian Pirro</a> about over engineering systems.  We dive into anticipating problems that might not exist, the temptation to impress other engineers and missing the mark with end users.</p><br/><p>As always, we end with picks for you to follow up on!</p><br/><p>Topics:</p><br/><ul><li></li><li>0:00 - Intros and <a href=\"https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it\" rel=\"nofollow\">YAGNI</a>.</li><li>2:00 - Don&#39;t optimize ... yet.</li><li>3:00 - Being afraid of code judgement.</li><li>4:10 - Thoughts on <a href=\"https://www.heroku.com/\" rel=\"nofollow\">Heroku</a>.</li><li>5:20 - Think about the end user instead of impressing other developers.</li><li>8:50 - When should you start thinking about scale as a developer?  What&#39;s the line between Dev and DevOps in scaling?</li><li>11:00 - The trough of disillusionment with new apps and component libraries.</li><li>13:00 - Know your customer. If you don&#39;t, ask questions.</li><li>15:20 - Perfect is the enemy of done.</li><li>17:45 - On premature code reuse...</li><li>21:10 - Be Lazy! / Number of git repos as a proxy for complexity.</li><li>23:15 - Timelines are good and force you to ship and get feedback.</li><li>25:00 - Silly things engineers do in the name of good code.</li><li>26:50 - Picks:<br/><ul><li>Dave - <a href=\"https://www.androidpolice.com/2019/05/29/google-still-plans-to-kill-chromes-existing-adblock-apis/\" rel=\"nofollow\">Goole Chrome plugin proposal</a> and a huge digression into privacy and ads</li><li>Brandon - <a href=\"https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X\" rel=\"nofollow\">Bad Blood: Secrets and Lies in a Silicon Valley Startup</a></li><li>Matt M. - <a href=\"https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797\" rel=\"nofollow\">The Idea Factory: Bell Labs and the Great Age of American Innovation</a></li><li>Matt D. - <a href=\"https://github.com/zeit/now\" rel=\"nofollow\">Zeit Now</a></li><li>Ian - <a href=\"https://en.wikipedia.org/wiki/Tab_%28drink%29\" rel=\"nofollow\">Tab Soda</a></li></ul><br/></li></ul>",
+    "id" : "13cYxIBkONnC3RJbMtLzWn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6765630000ba8af3575988ed0e0980b7b94592",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67656300005f1ff3575988ed0e0980b7b94592",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6765630000f68df3575988ed0e0980b7b94592",
+      "width" : 64
+    } ],
+    "is_externally_hosted" : false,
+    "is_playable" : true,
+    "language" : "en",
+    "languages" : [ "en" ],
+    "name" : "Episode 4: You are not Facebook.",
+    "release_date" : "2019-12-16",
+    "release_date_precision" : "day",
+    "type" : "episode",
+    "uri" : "spotify:episode:13cYxIBkONnC3RJbMtLzWn"
+  }, {
+    "audio_preview_url" : "https://p.scdn.co/mp3-preview/a2331e1cf49175c413692a4fc89be6eb242a405d",
+    "description" : "In episode 3, host Brandon Aaskov talks with Rocket Insights Software Developers Dave Oelfke and Ian Pirro about State Management on the UI.  They go deep on Redux, alternatives to Redux, and where these tools should and should not be used.  As always, we end with our picks (totally unrelated to State Management) for you to follow up on! Topics:  0:00 - Intros and a brief history of Redux.  Opinions abound!  Scott O'Brien - The Rocket Insights dev who (used to) troll Dan Abramov (creator of Redux) on Twitter   2:30 - What is Redux? 3:30 - GraphQL and Apollo as an alternative (or compliment) to Redux. 5:00 - When does using Redux make sense? 8:45 - Redux vs. MobX. 14:15 - Angular 1.3 two way binding, oh no! 16:45 - When should you reach for Redux? When are your components too complicated? 17:30 - Should you use React's Context instead? 18:03 - Will React Hooks do away with Redux?  Note: This episode was recorded when Hooks weren't yet available for GA release.   25:14 - Back to Apollo - Subscriptions. 26:45 - Hot takes! Don't use Redux. Use Mobx, or Vue and VueX instead. 31:30 - Hot takes! Mutability is ok. 34:45 - I just want to use things that work, not the newest fanciest thing.  37:15 - Redux on the server!? 39:45 - You can write your app in jQuery and Redux (!?) 40:45 - Picks!  Brandon - The Night Of on HBO. Dave - Subscribe to Pewdiepie on Youtube! Ian - WeWantPlates subreddit.   ",
+    "duration_ms" : 2727393,
+    "explicit" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/episode/7lQ88AqUBtKVd0H5Bn8m18"
+    },
+    "href" : "https://api.spotify.com/v1/episodes/7lQ88AqUBtKVd0H5Bn8m18",
+    "html_description" : "<p>In episode 3, host <a href=\"https://www.linkedin.com/in/brandonaaskov/\" rel=\"nofollow\">Brandon Aaskov</a> talks with Rocket Insights Software Developers <a href=\"https://www.linkedin.com/in/davidoelfke/\" rel=\"nofollow\">Dave Oelfke </a>and <a href=\"https://www.linkedin.com/in/ian-pirro-4140a751/\" rel=\"nofollow\">Ian Pirro</a> about State Management on the UI.  They go deep on <a href=\"https://redux.js.org/\" rel=\"nofollow\">Redux</a>, alternatives to Redux, and where these tools should and should not be used.  As always, we end with our picks (totally unrelated to State Management) for you to follow up on!</p><br/><p>Topics:</p><br/><ul><li>0:00 - Intros and a brief history of Redux.  Opinions abound!<br/><ul><li><a href=\"https://www.linkedin.com/in/scottcahillobrien/\" rel=\"nofollow\">Scott O&#39;Brien</a> - The Rocket Insights dev who (used to) troll Dan Abramov (creator of Redux) on Twitter</li></ul><br/></li><li>2:30 - What is Redux?</li><li>3:30 - GraphQL and Apollo as an alternative (or compliment) to Redux.</li><li>5:00 - When does using Redux make sense?</li><li>8:45 - Redux vs. <a href=\"https://mobx.js.org/README.html\" rel=\"nofollow\">MobX</a>.</li><li>14:15 - Angular 1.3 two way binding, oh no!</li><li>16:45 - When should you reach for Redux? When are your components too complicated?</li><li>17:30 - Should you use React&#39;s <a href=\"https://reactjs.org/docs/context.html\" rel=\"nofollow\">Context</a> instead?</li><li>18:03 - Will <a href=\"https://reactjs.org/docs/hooks-intro.html\" rel=\"nofollow\">React Hooks</a> do away with Redux?<br/><ul><li>Note: This episode was recorded when Hooks weren&#39;t yet available for GA release.</li></ul><br/></li><li>25:14 - Back to Apollo - Subscriptions.</li><li>26:45 - Hot takes! Don&#39;t use Redux. Use Mobx, or <a href=\"https://vuejs.org/\" rel=\"nofollow\">Vue</a> and <a href=\"https://vuex.vuejs.org/\" rel=\"nofollow\">VueX</a> instead.</li><li>31:30 - Hot takes! Mutability is ok.</li><li>34:45 - I just want to use things that work, not the newest fanciest thing. </li><li>37:15 - Redux on the server!?</li><li>39:45 - You can write your app in jQuery and Redux (!?)</li><li>40:45 - Picks!<br/><ul><li>Brandon - <a href=\"https://www.hbo.com/the-night-of\" rel=\"nofollow\">The Night Of</a> on HBO.</li><li>Dave - Subscribe to <a href=\"https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw\" rel=\"nofollow\">Pewdiepie</a> on Youtube!</li><li>Ian - <a href=\"https://www.reddit.com/r/WeWantPlates/\" rel=\"nofollow\">WeWantPlates</a> subreddit.</li></ul><br/></li></ul>",
+    "id" : "7lQ88AqUBtKVd0H5Bn8m18",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6765630000ba8af3575988ed0e0980b7b94592",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67656300005f1ff3575988ed0e0980b7b94592",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6765630000f68df3575988ed0e0980b7b94592",
+      "width" : 64
+    } ],
+    "is_externally_hosted" : false,
+    "is_playable" : true,
+    "language" : "en",
+    "languages" : [ "en" ],
+    "name" : "Episode 3: Redux and State Management",
+    "release_date" : "2019-12-04",
+    "release_date_precision" : "day",
+    "type" : "episode",
+    "uri" : "spotify:episode:7lQ88AqUBtKVd0H5Bn8m18"
+  }, {
+    "audio_preview_url" : "https://p.scdn.co/mp3-preview/6990ff862175ad4d1e93ba6eeba55e5d33060a79",
+    "description" : "In episode 2, host Brandon Aaskov (Principal Software Developer, Rocket Insights) talks with Rocket Insights software developers Brian Manning, Jon Principe  about the challenge of Developer phone screens and how we go about conducting them.  We then move on to discuss whether or not to use homework as part of the interview process.  As usual, we end with picks and then go into an extended discussion of Elixir and Phoenix! Topics:  0:00 - Intros 1:00 - What we do for phone screens 4:50 - What should you focus on in a phone screen? 8:50 - Should we give out homework?  When? 11:45 - (Justified) Resistance to homework 15:20 - Updating existing codebases instead of new code 18:30 - Picks! Brandon - Bandersnatch  Brian - Weapons of Math Destruction - Cathy O'Neill Jon - Elixir Phoenix Live Views   21:00 - The magic of Elixir and the return of Server Side Rendering!?   ",
+    "duration_ms" : 1547546,
+    "explicit" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/episode/3tLLgs0TeH5uErJwleX3sI"
+    },
+    "href" : "https://api.spotify.com/v1/episodes/3tLLgs0TeH5uErJwleX3sI",
+    "html_description" : "<p>In episode 2, host <a href=\"https://www.linkedin.com/in/brandonaaskov/\" rel=\"nofollow\">Brandon Aaskov</a> (Principal Software Developer, Rocket Insights) talks with Rocket Insights software developers <a href=\"https://www.linkedin.com/in/brimanning/%20\" rel=\"nofollow\">Brian Manning,</a> <a href=\"https://www.linkedin.com/in/jonathanprincipe/\" rel=\"nofollow\">Jon Principe</a>  about the challenge of Developer phone screens and how we go about conducting them.  We then move on to discuss whether or not to use homework as part of the interview process.  As usual, we end with picks and then go into an extended discussion of Elixir and Phoenix!</p><br/><p>Topics:</p><br/><ul><li><br/><ul><li>0:00 - Intros</li><li>1:00 - What we do for phone screens</li><li>4:50 - What should you focus on in a phone screen?</li><li>8:50 - Should we give out homework?  When?</li><li>11:45 - (Justified) Resistance to homework</li><li>15:20 - Updating existing codebases instead of new code</li><li>18:30 - Picks!<br/><ul><li>Brandon - <a href=\"https://www.netflix.com/title/80988062\" rel=\"nofollow\">Bandersnatch</a> </li><li>Brian - <a href=\"https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction\" rel=\"nofollow\">Weapons of Math Destruction - Cathy O&#39;Neill</a></li><li>Jon - <a href=\"https://github.com/phoenixframework/phoenix_live_view\" rel=\"nofollow\">Elixir Phoenix Live Views</a></li></ul><br/></li><li>21:00 - The magic of Elixir and the return of Server Side Rendering!?</li></ul><br/></li></ul>",
+    "id" : "3tLLgs0TeH5uErJwleX3sI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6765630000ba8af3575988ed0e0980b7b94592",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67656300005f1ff3575988ed0e0980b7b94592",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6765630000f68df3575988ed0e0980b7b94592",
+      "width" : 64
+    } ],
+    "is_externally_hosted" : false,
+    "is_playable" : true,
+    "language" : "en",
+    "languages" : [ "en" ],
+    "name" : "Episode 2:  Phone Screens and Interview Homework",
+    "release_date" : "2019-11-26",
+    "release_date_precision" : "day",
+    "type" : "episode",
+    "uri" : "spotify:episode:3tLLgs0TeH5uErJwleX3sI"
+  } ],
+  "limit" : 20,
+  "next" : "https://api.spotify.com/v1/shows/2P2BVhs19aqHVg7jUPuTjL/episodes?offset=20&limit=20",
+  "offset" : 0,
+  "previous" : null,
+  "total" : 22
+}

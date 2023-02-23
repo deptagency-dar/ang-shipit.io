@@ -1,0 +1,11 @@
+<div class="card-container">
+  <img class="episode-cover" [src]="image" alt="Episode cover" />
+  <div class="content">
+    <div class="description">
+      {{ name }}
+    </div>
+    <div class="play-button" (click)="toggle()">
+        <img [src]="playImage" alt="Play">
+    </div>
+  </div>
+</div>

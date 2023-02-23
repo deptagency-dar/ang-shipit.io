@@ -1,8 +1,10 @@
 import { ChangeDetectionStrategy } from '@angular/core';
 import { Component, OnInit } from '@angular/core';
-import { Observable } from 'rxjs';
-import { Episode } from 'src/app/models/episode.model';
-import { ApiService } from 'src/app/services/api.service';
+
+import { catchError, ignoreElements, Observable, of, takeUntil } from 'rxjs';
+
+import { Episode } from '@models/episode.model';
+import { ApiService } from '@services/api.service';
 
 @Component({
   selector: 'app-home',
@@ -12,10 +14,15 @@ import { ApiService } from 'src/app/services/api.service';
 })
 export class HomeComponent implements OnInit {
   episodes$: Observable<Episode[]>;
+  episodesError$: Observable<Error>;
 
   constructor(private apiService: ApiService) {}
 
   ngOnInit(): void {
     this.episodes$ = this.apiService.getEpisodes();
+    this.episodesError$ = this.episodes$.pipe(
+      ignoreElements(),
+      catchError((err: Error) => of(err))
+    );
   }
 }

@@ -1,6 +1,27 @@
-<ng-container *ngIf="episodes$ | async as episodes; else loading">
-    <p *ngFor="let episode of episodes">{{episode.description}}</p>
-</ng-container>
-<ng-template #loading>
-    <p><i>Loading...</i></p>
-</ng-template>
+<div class="home-container">
+    <div>
+        <h2>Shipit.io</h2>
+        <ng-container
+          *ngIf="{
+            episodes: episodes$ | async,
+            episodesError: episodesError$ | async
+          } as vm"
+        >
+          <ng-container *ngIf="vm.episodes as episodes; else loading">
+            <!-- <p *ngFor="let episode of episodes">{{ episode.description }}</p> -->
+            <app-card
+              *ngFor="let episode of episodes"
+              [name]="episode.name"
+              [previewUrl]="episode.audio_preview_url"
+              [image]="episode.images[0].url"
+            >
+            </app-card>
+          </ng-container>
+          <small *ngIf="vm.episodesError as error">{{ error.message }}</small>
+        
+          <ng-template #loading>
+            <p *ngIf="!vm.episodesError"><i>Loading...</i></p>
+          </ng-template>
+        </ng-container>
+    </div>
+</div>
