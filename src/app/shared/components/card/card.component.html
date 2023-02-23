@@ -4,6 +4,7 @@
     <div class="description">
       {{ name }}
     </div>
+    <img class="favorite" [src]="favImg" alt="Empty heart" (click)="fav()">
     <div class="play-button" (click)="toggle()">
         <img [src]="playImage" alt="Play">
     </div>

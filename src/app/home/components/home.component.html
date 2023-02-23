@@ -1,6 +1,9 @@
 <div class="home-container">
     <div>
-        <h2>Shipit.io</h2>
+        <div class="header">
+          <img src="assets/avatar.jpg" alt="Avatar">
+          <h2>Shipit.io</h2>
+        </div>
         <ng-container
           *ngIf="{
             episodes: episodes$ | async,
@@ -11,6 +14,7 @@
             <!-- <p *ngFor="let episode of episodes">{{ episode.description }}</p> -->
             <app-card
               *ngFor="let episode of episodes"
+              [id]="episode.id"
               [name]="episode.name"
               [previewUrl]="episode.audio_preview_url"
               [image]="episode.images[0].url"

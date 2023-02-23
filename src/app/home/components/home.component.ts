@@ -1,7 +1,7 @@
 import { ChangeDetectionStrategy } from '@angular/core';
 import { Component, OnInit } from '@angular/core';
 
-import { catchError, ignoreElements, Observable, of, takeUntil } from 'rxjs';
+import { catchError, ignoreElements, Observable, of } from 'rxjs';
 
 import { Episode } from '@models/episode.model';
 import { ApiService } from '@services/api.service';

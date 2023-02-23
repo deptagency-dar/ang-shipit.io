@@ -5,12 +5,28 @@
     flex-direction: column;
     align-items: center;
 
-    h2 {
-        font-weight: 700;
-        font-size: 1.125rem;
-        line-height: 1.75rem;
-        margin-top: 1rem;
-        margin-bottom: 1rem;
+    .header {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+
+        img {
+            width: 1.5rem;
+            height: 1.5rem;
+            border-radius: 100%;
+            border: 1px solid;
+            border-color: rgb(34 197 94);
+            margin-right: 10px;
+        }
+
+        h2 {
+            font-weight: 700;
+            font-size: 1.125rem;
+            line-height: 1.75rem;
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+        }
     }
+
 }
 
