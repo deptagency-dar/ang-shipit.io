@@ -1,6 +1,5 @@
 .card-container {
     background-color: #343434;
-    cursor: pointer;
     max-width: 28rem;
     height: 6rem;
     margin-bottom: 1rem;
@@ -29,6 +28,7 @@
         .favorite {
             width: 13px;
             height: 13px;
+            cursor: pointer;
         }
 
         .play-button {

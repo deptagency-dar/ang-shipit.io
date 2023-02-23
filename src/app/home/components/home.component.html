@@ -11,7 +11,6 @@
           } as vm"
         >
           <ng-container *ngIf="vm.episodes as episodes; else loading">
-            <!-- <p *ngFor="let episode of episodes">{{ episode.description }}</p> -->
             <app-card
               *ngFor="let episode of episodes"
               [id]="episode.id"
@@ -28,4 +27,8 @@
           </ng-template>
         </ng-container>
     </div>
+    <footer>
+      <img src="assets/home.png" alt="Empty heart" (click)="showAll()">
+      <img src="assets/heart-empty.png" alt="Empty heart" (click)="showFavs()">
+    </footer>
 </div>
