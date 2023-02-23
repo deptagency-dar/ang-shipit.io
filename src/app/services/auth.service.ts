@@ -23,4 +23,8 @@ export class AuthService {
   login(token: string): void {
     this.accessToken = token;
   }
+
+  getAccessToken(): string {
+    return this.accessToken;
+  }
 }

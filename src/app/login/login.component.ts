@@ -22,9 +22,7 @@ export class LoginComponent implements OnInit {
     //   this.route.fragment.subscribe((fragment: string) => {
     //     console.log("My hash fragment is here => ", fragment)
     // })
-    const query = new URLSearchParams(location.hash.substring(1));
-    const token = query.get('access_token');
-    console.log(token);
+    const token = new URLSearchParams(location.hash.substring(1)).get('access_token');
     if (token) {
       this.authService.login(token);
       this.router.navigate(['/']);
