@@ -1,0 +1,13 @@
+.bg-green-500 {
+  background-color: rgb(34 197 94);
+}
+
+.rounded-3x1 {
+  border-radius: 1.5rem;
+}
+
+.hover-shadow-md:hover {
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
