@@ -12,8 +12,7 @@
         >
           <ng-container *ngIf="vm.episodes as episodes; else loading">
             <app-card
-              *ngFor="let episode of episodes"
-              [id]="episode.id"
+              *ngFor="let episode of episodes; trackBy: trackEpisode"
               [name]="episode.name"
               [previewUrl]="episode.audio_preview_url"
               [image]="episode.images[0].url"

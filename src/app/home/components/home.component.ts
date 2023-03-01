@@ -27,6 +27,10 @@ export class HomeComponent implements OnInit {
     );
   }
 
+  trackEpisode(_: number, item: Episode): string {
+    return item.id;
+  }
+
   showAll(): void {
     this.episodes$ = this.apiService.getEpisodes();
   }

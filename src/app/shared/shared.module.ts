@@ -2,16 +2,14 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 import { ButtonComponent } from './components/button/button.component';
-import { CardComponent } from './components/card/card.component';
 
 @NgModule({
   declarations: [
-    ButtonComponent,
-    CardComponent
+    ButtonComponent
   ],
   imports: [
     CommonModule
   ],
-  exports: [ButtonComponent, CardComponent]
+  exports: [ButtonComponent]
 })
 export class SharedModule { }
