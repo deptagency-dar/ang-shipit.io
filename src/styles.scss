@@ -38,6 +38,10 @@
     font-size: 3.2em;
     line-height: 1.1;
   }
+
+  .bg-green {
+    background-color: rgb(34 197 94);
+  }
   
   button {
     border-radius: 8px;
@@ -49,6 +53,12 @@
     background-color: #1a1a1a;
     cursor: pointer;
     transition: border-color 0.25s;
+  }
+
+  .hover-shadow-md:hover {
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
   }
   
   @media (prefers-color-scheme: light) {

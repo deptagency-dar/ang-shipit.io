@@ -4,9 +4,6 @@ import { Injectable } from '@angular/core';
   providedIn: 'root'
 })
 export class AuthService {
-
-  constructor() { }
-
   private get accessToken(): string {
     return localStorage.getItem('access_token') ?? '';
   }
@@ -16,7 +13,7 @@ export class AuthService {
   }
 
   isAuth(): boolean {
-    const token = this.accessToken // localStorage.getItem('access_token');
+    const token = this.accessToken;
     return token !== '';
   }
 

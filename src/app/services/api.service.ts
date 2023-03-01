@@ -1,7 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Inject, Injectable } from '@angular/core';
 
-import { map, Observable, ReplaySubject, share } from 'rxjs';
+import { map, Observable, shareReplay } from 'rxjs';
 
 import { Episode } from '@models/episode.model';
 
@@ -24,15 +24,11 @@ export class ApiService {
     return (this.episodes$ ??= this.httpClient
       .get(
         // `${this.baseUrl}/shows/2P2BVhs19aqHVg7jUPuTjL/episodes`
-        '/assets/data.json'
+        '/assets/data.json' // mocked data for dev purpose.
       )
       .pipe(
         map((data: any) => data.items),
-        share({
-          connector: () => new ReplaySubject(1),
-          resetOnRefCountZero: true,
-          resetOnError: true,
-        })
+        shareReplay({ bufferSize: 1, refCount: true })
       ));
   }
 }
