@@ -22,10 +22,7 @@ export class ApiService {
 
   getEpisodes(): Observable<Episode[]> {
     return (this.episodes$ ??= this.httpClient
-      .get(
-        // `${this.baseUrl}/shows/2P2BVhs19aqHVg7jUPuTjL/episodes`
-        '/assets/data.json' // mocked data for dev purpose.
-      )
+      .get( `${this.baseUrl}/shows/2P2BVhs19aqHVg7jUPuTjL/episodes`)
       .pipe(
         map((data: any) => data.items),
         shareReplay({ bufferSize: 1, refCount: true })

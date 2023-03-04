@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/deptagency-dar/shipit.io">
+  <a href="https://github.com/deptagency-dar/ang-shipit.io">
     <img src="https://i.scdn.co/image/ab6765630000f68df3575988ed0e0980b7b94592" alt="Logo" width="80" height="80">
   </a>
 
@@ -22,9 +22,9 @@
   <p align="center">
     Frontend coding exercise
     <br />
-    <a href="https://github.com/deptagency-dar/shipit.io/issues">Report Bug</a>
+    <a href="https://github.com/deptagency-dar/ang-shipit.io/issues">Report Bug</a>
     ·
-    <a href="https://github.com/deptagency-dar/shipit.io/issues">Request Feature</a>
+    <a href="https://github.com/deptagency-dar/ang-shipit.io/issues">Request Feature</a>
   </p>
 </div>
 

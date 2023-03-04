@@ -1,11 +1,11 @@
 import { ChangeDetectionStrategy } from '@angular/core';
 import { Component, OnInit } from '@angular/core';
 
-import { catchError, filter, ignoreElements, map, Observable, of } from 'rxjs';
+import { catchError, ignoreElements, map, Observable, of } from 'rxjs';
 
 import { Episode } from '@models/episode.model';
 import { ApiService } from '@services/api.service';
-import { FavService } from '@app/app/services/fav.service';
+import { FavService } from '@services/fav.service';
 
 @Component({
   selector: 'app-home',

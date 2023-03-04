@@ -14,9 +14,6 @@ export class LoginComponent implements OnInit {
   constructor(private router: Router, private authService: AuthService) {}
 
   ngOnInit(): void {
-    //   this.route.fragment.subscribe((fragment: string) => {
-    //     console.log("My hash fragment is here => ", fragment)
-    // })
     const token = new URLSearchParams(location.hash.substring(1)).get(
       'access_token'
     );
