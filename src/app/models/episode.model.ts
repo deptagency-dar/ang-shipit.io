@@ -1,3 +1,7 @@
+export interface EpisodeResponse {
+  items: Episode[];
+}
+
 export interface Episode {
   audio_preview_url: string;
   description: string;

@@ -3,7 +3,7 @@ import { Inject, Injectable } from '@angular/core';
 
 import { map, Observable, shareReplay } from 'rxjs';
 
-import { Episode } from '@models/episode.model';
+import { Episode, EpisodeResponse } from '@models/episode.model';
 
 @Injectable({
   providedIn: 'root',
@@ -22,9 +22,11 @@ export class ApiService {
 
   getEpisodes(): Observable<Episode[]> {
     return (this.episodes$ ??= this.httpClient
-      .get( `${this.baseUrl}/shows/2P2BVhs19aqHVg7jUPuTjL/episodes`)
+      .get<EpisodeResponse>(
+        `${this.baseUrl}/shows/2P2BVhs19aqHVg7jUPuTjL/episodes`
+      )
       .pipe(
-        map((data: any) => data.items),
+        map((data) => data.items),
         shareReplay({ bufferSize: 1, refCount: true })
       ));
   }

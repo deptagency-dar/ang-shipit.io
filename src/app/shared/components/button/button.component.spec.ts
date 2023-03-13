@@ -8,9 +8,8 @@ describe('ButtonComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ ButtonComponent ]
-    })
-    .compileComponents();
+      declarations: [ButtonComponent],
+    }).compileComponents();
 
     fixture = TestBed.createComponent(ButtonComponent);
     component = fixture.componentInstance;
@@ -19,5 +18,17 @@ describe('ButtonComponent', () => {
 
   it('should create', () => {
     expect(component).toBeTruthy();
+  });
+
+  it('should emit on click', () => {
+    spyOn(component.onClickEvent, 'emit');
+
+    const nativeElement = fixture.nativeElement;
+    const button = nativeElement.querySelector('button');
+    button.dispatchEvent(new Event('click'));
+
+    fixture.detectChanges();
+
+    expect(component.onClickEvent.emit).toHaveBeenCalled();
   });
 });
